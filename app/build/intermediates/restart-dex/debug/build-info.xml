@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="34915399809421"
+    token="-3392051160729975499"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1062" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="52" />
+    <task
+        name="verifier"
+        duration="24" />
+
+    <artifact
+        location="/Users/malone/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="34915399809421"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/malone/Downloads/iot-starter-for-android-5aba20eb463120edf6739d39a7b68c772218d200/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
